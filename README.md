@@ -1,8 +1,8 @@
 # Michael M. Ross
 
-Research in Number Theory and Computational Mathematics. Explore my work at [NaturalNumbers.org](https://naturalnumbers.org/Michael_M_Ross_recent_publications.htm).
+Research in Number Theory and Computational Mathematics. 
 
-## 📄 Recent Publications (Zenodo)
+## 📄 Recent Publications
 These papers examine structures in the Collatz Conjecture and Goldbach's Problem using sieve theory and computational heuristics.
 
 * **[Sieve Structures of Primorial Goldbach Complements](https://zenodo.org/records/15352358/files/Michael_M_Ross_Sieve_Structures_of_Primorial_Goldbach_Complements.pdf)**
@@ -25,6 +25,7 @@ These papers examine structures in the Collatz Conjecture and Goldbach's Problem
 * **[TaskTracker](https://tasktracker.wordwisesolutions.com/)** – A legacy project-management application, now open-sourced on GitHub.
 * **[Wordwise Solutions](https://wordwisesolutions.com/)** – Professional services and technical documentation.
 
+Explore my earler work at [NaturalNumbers.org](https://naturalnumbers.org/Michael_M_Ross_recent_publications.htm).
 ---
 ### 📬 Contact & Profiles
 - **Website:** [NaturalNumbers.org](https://naturalnumbers.org)
