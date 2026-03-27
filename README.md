@@ -22,7 +22,7 @@ These papers examine structures in the Collatz Conjecture and Goldbach's Problem
   * *Repository:* [Legendre](https://github.com/michaelmross/Legendre)
 
 ## 🛠️ Software & Projects
-* **[Task Tracker](https://tasktracker.wordwisesolutions.com/)** – A legacy project-management application, now open-sourced on GitHub.
+* **[TaskTracker](https://tasktracker.wordwisesolutions.com/)** – A legacy project-management application, now open-sourced on GitHub.
 * **[Wordwise Solutions](https://wordwisesolutions.com/)** – Professional services and technical documentation.
 
 ---
