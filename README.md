@@ -25,7 +25,7 @@ These papers examine structures in the Collatz Conjecture and Goldbach's Problem
 * **[TaskTracker](https://tasktracker.wordwisesolutions.com/)** – A legacy project-management application, now open-sourced on GitHub.
 * **[Wordwise Solutions](https://wordwisesolutions.com/)** – Professional services and technical documentation.
 
-Explore my earler work at [NaturalNumbers.org](https://naturalnumbers.org/Michael_M_Ross_recent_publications.htm).
+* Explore my earler work at [NaturalNumbers.org](https://naturalnumbers.org/Michael_M_Ross_recent_publications.htm).
 ---
 ### 📬 Contact & Profiles
 - **Website:** [NaturalNumbers.org](https://naturalnumbers.org)
