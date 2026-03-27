@@ -3,7 +3,7 @@
 Research in Number Theory and Computational Mathematics. 
 
 ## 📄 Recent Publications
-These papers examine structures in the Collatz Conjecture and Goldbach's Problem using sieve theory and computational heuristics.
+These papers reveal interesting structures in three famous conjectures using sieve theory and Python-scripted computation.
 
 * **[Sieve Structures of Primorial Goldbach Complements](https://zenodo.org/records/15352358/files/Michael_M_Ross_Sieve_Structures_of_Primorial_Goldbach_Complements.pdf)**
   * *Zenodo Record:* [15352358](https://zenodo.org/records/15352358)
