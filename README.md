@@ -30,4 +30,4 @@ These papers reveal interesting structures in three famous conjectures using sie
 ### 📬 Contact & Profiles
 - **Website:** [Quora](https://www.quora.com/profile/Michael-Mark-Ross)
 - **LinkedIn:** [michaelmross](https://www.linkedin.com/in/michaelmross/)
-- **Substack** [michaelmarkross.substack.com](https://michaelmarkross.substack.com/)
+- **Substack:** [michaelmarkross.substack.com](https://michaelmarkross.substack.com/)
