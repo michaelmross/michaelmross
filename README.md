@@ -5,7 +5,7 @@ Research in Number Theory and Computational Mathematics.
 ## 📄 Recent Publications
 These papers reveal interesting structures in three famous conjectures using sieve theory and Python-scripted computation.
 
-* **[Sieve Structures of Primorial Goldbach Complements]([https://zenodo.org/records/19008286/files/Michael_M_Ross_Sieve_Structures_of_Primorial_Goldbach_Complements.pdf])**
+* **[Sieve Structures of Primorial Goldbach Complements](https://zenodo.org/records/19008286/files/Michael_M_Ross_Sieve_Structures_of_Primorial_Goldbach_Complements.pdf)**
   * *Zenodo Record:* [19008286](https://zenodo.org/records/19008286)
   * *Repository:* [goldbach-primorials](https://github.com/michaelmross/goldbach-primorials)
 
