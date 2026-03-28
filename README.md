@@ -28,6 +28,6 @@ These papers reveal interesting structures in three famous conjectures using sie
 * Explore my earler work at [NaturalNumbers.org](https://naturalnumbers.org/Michael_M_Ross_recent_publications.htm).
 ---
 ### 📬 Contact & Profiles
-- **Website:** [NaturalNumbers.org](https://naturalnumbers.org)
+- **Website:** [Quora](https://www.quora.com/profile/Michael-Mark-Ross)
 - **LinkedIn:** [michaelmross](https://www.linkedin.com/in/michaelmross/)
 - **Zenodo:** [Michael M. Ross](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Ross%2C%20Michael%20M.%22)
