@@ -25,7 +25,7 @@ These papers reveal interesting structures in three famous conjectures using sie
 * **[TaskTracker](https://tasktracker.wordwisesolutions.com/)** – A legacy file-tracking application, now open-sourced on GitHub.
 * **[Wordwise Solutions](https://wordwisesolutions.com/)** – Professional services and technical documentation.
 
-* Explore my earler work at [NaturalNumbers.org](https://naturalnumbers.org/Michael_M_Ross_recent_publications.htm).
+* Explore my earler work at **[NaturalNumbers.org](https://naturalnumbers.org/Michael_M_Ross_recent_publications.htm)**.
 ---
 ### 📬 Contact & Profiles
 - **Website:** [Quora](https://www.quora.com/profile/Michael-Mark-Ross)
