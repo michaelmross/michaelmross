@@ -17,8 +17,8 @@ These papers reveal interesting structures in three famous conjectures using sie
   * *Zenodo DOI:* [19055865](https://doi.org/10.5281/zenodo.19055865)
   * *Repository:* [goldbach-primorials](https://github.com/michaelmross/goldbach-primorials)
 
-* **[Eliminating the Parity Obstruction in a Quadratic Interval](https://zenodo.org/records/19207278/files/Eliminating_the_Parity_Obstruction_in_a_Quadratic_Interval.pdf)**
-  * *Zenodo DOI:* [19207278](https://doi.org/10.5281/zenodo.19207278)
+* **[Eliminating the Parity Obstruction in a Quadratic Interval](https://zenodo.org/records/19986694/files/Eliminating_the_Parity_Obstruction_in_a_Quadratic_Interval.pdf)**
+  * *Zenodo DOI:* [19986694](https://doi.org/10.5281/zenodo.19986694)
   * *Repository:* [Legendre](https://github.com/michaelmross/Legendre)
  
 * **[Inverse Pairs and the Loop Structure of Collatz-Type Functions](https://zenodo.org/records/19387419/files/Inverse_Pairs_and_the_Loop_Structure_of_Collatz_Type_Functions.pdf)**
