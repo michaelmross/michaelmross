@@ -21,8 +21,8 @@ These papers reveal interesting structures in three famous conjectures using sie
   * *Zenodo DOI:* [19986694](https://doi.org/10.5281/zenodo.19986694)
   * *Repository:* [Legendre](https://github.com/michaelmross/Legendre)
  
-* **[Inverse Pairs and the Loop Structure of Collatz-Type Functions](https://zenodo.org/records/19387419/files/Inverse_Pairs_and_the_Loop_Structure_of_Collatz_Type_Functions.pdf)**
-  * *Zenodo DOI:* [19387419](https://doi.org/10.5281/zenodo.19387419)
+* **[Loop Structure of Collatz-Type Functions 3x+n: A Conjugacy Theorem and Powers of Three](https://zenodo.org/records/20545164/files/Loop_Structure_of_Collatz_Type_Functions_3x_n.pdf)**
+  * *Zenodo DOI:* [20545164](https://doi.org/10.5281/zenodo.20545164)
   * *Repository:* [Collatz](https://github.com/michaelmross/Collatz/tree/main/loops)
  
 * **[A Multiplicity-Corrected Legendre Sieve for Primes in Consecutive Square Intervals](https://zenodo.org/records/19416766/files/A_Multiplicity_Corrected_Legendre_Sieve_for_Primes_in_Consecutive_Square_Intervals.pdf)**
