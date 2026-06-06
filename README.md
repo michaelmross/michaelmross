@@ -13,8 +13,8 @@ These papers reveal interesting structures in three famous conjectures using sie
   * *Zenodo DOI:* [19039376](https://doi.org/10.5281/zenodo.19039376)
   * *Repository:* [Collatz](https://github.com/michaelmross/Collatz)
 
-* **[The Goldbach Problem for Primorials: Singular Series, Type II Sums, and LPF Structure](https://zenodo.org/records/19055865/files/The_Goldbach_Problem_for_Primorials_Singular_Series__Type_II_Sums_and_LPF_Structure.pdf)**
-  * *Zenodo DOI:* [19055865](https://doi.org/10.5281/zenodo.19055865)
+* **[The Goldbach Problem for Primorials: Singular Series, Type II Sums, and LPF Structure](https://zenodo.org/records/20564231/files/The_Goldbach_Problem_for_Primorials__Singular_Series__Type_II_Sums__and_LPF_Structure.pdf)**
+  * *Zenodo DOI:* [20564231](https://doi.org/10.5281/zenodo.20564231)
   * *Repository:* [goldbach-primorials](https://github.com/michaelmross/goldbach-primorials)
 
 * **[Eliminating the Parity Obstruction in a Quadratic Interval](https://zenodo.org/records/19986694/files/Eliminating_the_Parity_Obstruction_in_a_Quadratic_Interval.pdf)**
