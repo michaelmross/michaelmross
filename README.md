@@ -9,8 +9,8 @@ These papers reveal interesting structures in three famous conjectures using sie
   * *Zenodo DOI:* [19008286](https://doi.org/10.5281/zenodo.19008286)
   * *Repository:* [goldbach-primorials](https://github.com/michaelmross/goldbach-primorials)
 
-* **[Spike Structures, Finite-State Exclusion, and Bounded-Exponent Collatz Cycles](https://zenodo.org/records/19039376/files/Spike_Structures__Finite_State_Exclusion__and_Bounded_Exponent_Collatz_Cycles.pdf)**
-  * *Zenodo DOI:* [19039376](https://doi.org/10.5281/zenodo.19039376)
+* **[Spike Structures and 2-adic Transition Laws in the Accelerated Collatz Map](https://zenodo.org/records/21049703/files/Spike_Structures_and_2_adic_Transition_Laws_in_the_Accelerated_Collatz_Map.pdf)**
+  * *Zenodo DOI:* [19039375](https://doi.org/10.5281/zenodo.19039375)
   * *Repository:* [Collatz](https://github.com/michaelmross/Collatz)
 
 * **[The Goldbach Problem for Primorials: Singular Series, Type II Sums, and LPF Structure](https://zenodo.org/records/20564231/files/The_Goldbach_Problem_for_Primorials__Singular_Series__Type_II_Sums__and_LPF_Structure.pdf)**
