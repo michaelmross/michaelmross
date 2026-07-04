@@ -7,15 +7,15 @@ These papers reveal interesting structures in three famous conjectures using sie
 
 * **[Sieve Structures of Primorial Goldbach Complements](https://zenodo.org/records/19008286/files/Sieve_Structures_of_Primorial_Goldbach_Complements.pdf)**
   * *Zenodo DOI:* [19008286](https://doi.org/10.5281/zenodo.19008286)
-  * *Repository:* [goldbach-primorials](https://github.com/michaelmross/goldbach-primorials)
+  * *Repository:* [Goldbach-primorials](https://github.com/michaelmross/goldbach-primorials)
 
 * **[Spike Structures and 2-adic Transition Laws in the Accelerated Collatz Map](https://zenodo.org/records/21049703/files/Spike_Structures_and_2_adic_Transition_Laws_in_the_Accelerated_Collatz_Map.pdf)**
   * *Zenodo DOI:* [19039375](https://doi.org/10.5281/zenodo.19039375)
   * *Repository:* [Collatz](https://github.com/michaelmross/Collatz)
 
-* **[The Goldbach Problem for Primorials: Singular Series, Type II Sums, and LPF Structure](https://zenodo.org/records/20564231/files/The_Goldbach_Problem_for_Primorials__Singular_Series__Type_II_Sums__and_LPF_Structure.pdf)**
-  * *Zenodo DOI:* [20564231](https://doi.org/10.5281/zenodo.20564231)
-  * *Repository:* [goldbach-primorials](https://github.com/michaelmross/goldbach-primorials)
+* **[Factor Rays and the Self-Conjugate Parabola: Deterministic Coverage Geometry in Square Intervals](https://zenodo.org/records/21194356/files/Factor_Rays_and_the_Self_Conjugate_Parabola.pdf)**
+  * *Zenodo DOI:* [20016398](https://doi.org/10.5281/zenodo.20016398)
+  * *Repository:* [Legendre/geometry](https://github.com/michaelmross/Legendre/tree/main/geometry)
 
 * **[Eliminating the Parity Obstruction in a Quadratic Interval](https://zenodo.org/records/20574345/files/Eliminating_the_Parity_Obstruction_in_a_Quadratic_Interval.pdf)**
   * *Zenodo DOI:* [20574345](https://doi.org/10.5281/zenodo.20574345)
