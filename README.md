@@ -5,8 +5,8 @@ Research in Number Theory and Computational Mathematics.
 ## 📄 Recent Publications
 These papers reveal interesting structures in three famous conjectures using sieve theory and Python-scripted computation.
 
-* **[Sieve Structures of Primorial Goldbach Complements](https://zenodo.org/records/19008286/files/Sieve_Structures_of_Primorial_Goldbach_Complements.pdf)**
-  * *Zenodo DOI:* [19008286](https://doi.org/10.5281/zenodo.19008286)
+* **[Sifted Symmetry and Sieve Structures of Primorial Goldbach Complements](https://zenodo.org/records/21194754/files/Sieve_Structures_of_Primorial_Goldbach_Complements.pdf)**
+  * *Zenodo DOI:* [19008285](https://doi.org/10.5281/zenodo.19008285)
   * *Repository:* [Goldbach-primorials](https://github.com/michaelmross/goldbach-primorials)
 
 * **[Spike Structures and 2-adic Transition Laws in the Accelerated Collatz Map](https://zenodo.org/records/21049703/files/Spike_Structures_and_2_adic_Transition_Laws_in_the_Accelerated_Collatz_Map.pdf)**
