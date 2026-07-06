@@ -21,8 +21,8 @@ These papers reveal interesting structures in three famous conjectures using sie
   * *Zenodo DOI:* [20545164](https://doi.org/10.5281/zenodo.20545164)
   * *Repository:* [Collatz](https://github.com/michaelmross/Collatz/tree/main/loops)
  
-* **[A Multiplicity-Corrected Legendre Sieve for Primes in Consecutive Square Intervals](https://zenodo.org/records/19416766/files/A_Multiplicity_Corrected_Legendre_Sieve_for_Primes_in_Consecutive_Square_Intervals.pdf)**
-  * *Zenodo DOI:* [19416766](https://doi.org/10.5281/zenodo.19416766)
+* **[A Modified Legendre Product for Primes in Consecutive Square Intervals](https://zenodo.org/records/21210921/files/A_Modified_Legendre_Product_for_Primes_in_Consecutive_Square_Intervals.pdf)**
+  * *Zenodo DOI:* [19410635](https://doi.org/10.5281/zenodo.19410635)
   * *Repository:* [Legendre](https://github.com/michaelmross/Legendre/tree/main/sieve)
 
 ## 🛠️ Software & Projects
