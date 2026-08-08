@@ -2,7 +2,9 @@
 
 Research in Number Theory and Computational Mathematics. 
 
-## 📄 Recent Publications
+## 📄 Sample Publications
+**See <http://michaelmross.github.io> for more.**
+
 These papers reveal interesting structures in three famous conjectures using sieve theory and Python-scripted computation.
 
 * **[Sifted Symmetry and Sieve Structures of Primorial Goldbach Complements](https://zenodo.org/records/21194754/files/Sieve_Structures_of_Primorial_Goldbach_Complements.pdf)**
