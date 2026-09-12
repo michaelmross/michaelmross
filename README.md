@@ -2,40 +2,8 @@
 
 Research in Number Theory and Computational Mathematics. 
 
-## 📄 Sample Publications
-**See <http://michaelmross.github.io> for more.**
+**Published papers: <http://michaelmross.github.io>**
 
-These papers reveal interesting structures in three famous conjectures using sieve theory and Python-scripted computation.
-
-* **[Sifted Symmetry and Sieve Structures of Primorial Goldbach Complements](https://zenodo.org/records/21194754/files/Sieve_Structures_of_Primorial_Goldbach_Complements.pdf)**
-  * *Zenodo DOI:* [19008285](https://doi.org/10.5281/zenodo.19008285)
-  * *Repository:* [Goldbach-primorials](https://github.com/michaelmross/goldbach-primorials)
-
-* **[Spike Structures and 2-adic Transition Laws in the Accelerated Collatz Map](https://zenodo.org/records/21049703/files/Spike_Structures_and_2_adic_Transition_Laws_in_the_Accelerated_Collatz_Map.pdf)**
-  * *Zenodo DOI:* [19039375](https://doi.org/10.5281/zenodo.19039375)
-  * *Repository:* [Collatz](https://github.com/michaelmross/Collatz)
-
-* **[Factor Rays and the Self-Conjugate Parabola: Deterministic Coverage Geometry in Square Intervals](https://zenodo.org/records/21194356/files/Factor_Rays_and_the_Self_Conjugate_Parabola.pdf)**
-  * *Zenodo DOI:* [20016398](https://doi.org/10.5281/zenodo.20016398)
-  * *Repository:* [Legendre/geometry](https://github.com/michaelmross/Legendre/tree/main/geometry)
-
-* **[Loop Structure of Collatz-Type Functions 3x+n: A Conjugacy Theorem and Powers of Three](https://zenodo.org/records/20545164/files/Loop_Structure_of_Collatz_Type_Functions_3x_n.pdf)**
-  * *Zenodo DOI:* [20545164](https://doi.org/10.5281/zenodo.20545164)
-  * *Repository:* [Collatz](https://github.com/michaelmross/Collatz/tree/main/loops)
- 
-* **[A Modified Legendre Product for Primes in Consecutive Square Intervals](https://zenodo.org/records/21210921/files/A_Modified_Legendre_Product_for_Primes_in_Consecutive_Square_Intervals.pdf)**
-  * *Zenodo DOI:* [19410635](https://doi.org/10.5281/zenodo.19410635)
-  * *Repository:* [Legendre](https://github.com/michaelmross/Legendre/tree/main/sieve)
-
-## 🛠️ Software & Projects
-* **[TaskTracker](https://tasktracker.wordwisesolutions.com/)** – A legacy file-tracking application, now open-sourced on GitHub.
-* **[Wordwise Solutions](https://wordwisesolutions.com/)** – Professional services and technical documentation.
-
-* Explore my earlier work at **[NaturalNumbers.org](https://naturalnumbers.org/Michael_M_Ross_recent_publications.htm)**.
----
-### 📬 Contact & Profiles
-- **Website:** [Quora](https://www.quora.com/profile/Michael-Mark-Ross)
-- **LinkedIn:** [michaelmross](https://www.linkedin.com/in/michaelmross/)
-- **Substack:** [michaelmarkross.substack.com](https://michaelmarkross.substack.com/)
+![Factor rays with Legendre bands and parabola](https://github.com/michaelmross/michaelmross.github.io/blob/main/exp_A_chart.png)
 
 
